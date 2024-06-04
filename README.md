@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Dhami</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwaldhami" alt="ujjwaldhami" /></a> </p>
 
 - 🌱 I’m currently learning **DSA,Java**
 
