@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Dhami</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
+<img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+
 
 - 🌱 I’m currently learning **DSA,Java**
 
