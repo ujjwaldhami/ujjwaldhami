@@ -4,15 +4,6 @@
 <img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
 
-- 🌱 I’m currently learning **DSA,Java**
-
-- 👯 I’m looking to collaborate on **Python**
-
-- 🤝 I’m looking for help with **Database**
-
-- 📫 How to reach me **ujjawaldhami@gmail.com**
-
-- ⚡ Fun fact **I think i am a good cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
