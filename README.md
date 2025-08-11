@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Dhami</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<img align="center" src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/ujjwal_dhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwal_dhami" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ujjuu/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanshu_tiwari02" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://leetcode.com/u/Ujjuu/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal_dhami" height="30" width="40" style="max-width: 100%;"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
