@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Dhami</h1>
 <h3 align="center">A passionate Software Developer</h3>
-
-<img align="center" src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
-
+<p aligin="center">
+<img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -100,4 +100,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldhami&" alt="ujjwaldhami" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaldhami&" alt="ujjwaldhami" /></p>
