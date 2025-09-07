@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Dhami</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<p aligin="center">
-<img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
-</p>
+<div align="center">
+  <img src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
